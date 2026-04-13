@@ -1,6 +1,6 @@
 # 🚧 En construcción
 
-Para usar la pantalla LCD con la Raspberry Pi Pico y la placa de expansión Robopico será necesario descargar el acrhivo "lcd1602.py" y grabarlo en la misma Pico, idealmente dentro de la carpeta "lib". Luego, desde micropython, de debe importar el código descargado como se muestra en los ejemplos incluidos en este repositorio.
+Para usar la pantalla LCD con la Raspberry Pi Pico y la placa de expansión Robo Pico será necesario descargar el acrhivo "lcd1602.py" y grabarlo en la misma Pico, idealmente dentro de la carpeta "lib". Luego, desde micropython, de debe importar el código descargado como se muestra en los ejemplos incluidos en este repositorio.
 
 ```python
 from lcd1602 import LCD1602
